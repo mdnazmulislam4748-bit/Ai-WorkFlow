@@ -1,0 +1,9 @@
+{
+  "name": "AutoFlow AI",
+  "description": "Enterprise-grade AI Automation SaaS platform for building agents and workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
